@@ -9,6 +9,7 @@ This project demonstrates a full data analytics lifecycle, transforming raw cust
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 ✔ Data cleaning & preprocessing
+
 ✔ Exploratory data analysis
 ✔ Feature engineering
 ✔ Exporting data to SQL database
