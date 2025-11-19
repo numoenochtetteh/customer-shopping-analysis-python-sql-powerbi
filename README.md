@@ -11,22 +11,33 @@ Python (Pandas, NumPy, Matplotlib, Seaborn)
 ✔ Data cleaning & preprocessing
 
 ✔ Exploratory data analysis
+
 ✔ Feature engineering
+
 ✔ Exporting data to SQL database
+
 
 SQL (MySQL / PostgreSQL / SQL Server)
 
 ✔ Schema creation & table design
+
 ✔ Complex joins & aggregations
+
 ✔ Customer segmentation
+
 ✔ Cohort analysis
+
 ✔ Revenue and purchase behavior analysis
+
 
 Power BI
 
 ✔ Data modeling
+
 ✔ Interactive, business-friendly dashboard
+
 ✔ Insights on customer retention, loyalty & purchase patterns
+
 
 
 
