@@ -17,6 +17,7 @@ Python (Pandas, NumPy, Matplotlib, Seaborn)
 ✔ Exporting data to SQL database
 
 
+
 SQL (MySQL / PostgreSQL / SQL Server)
 
 ✔ Schema creation & table design
@@ -28,6 +29,7 @@ SQL (MySQL / PostgreSQL / SQL Server)
 ✔ Cohort analysis
 
 ✔ Revenue and purchase behavior analysis
+
 
 
 Power BI
