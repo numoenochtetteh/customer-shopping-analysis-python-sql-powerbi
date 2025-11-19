@@ -76,6 +76,8 @@ data/
 
 
 
+
+
 🚀 How to Use This Project
 1️⃣ Clone the Repository
 git clone https://github.com/numoenochtetteh/customer-shopping-analysis-python-sql-powerbi
