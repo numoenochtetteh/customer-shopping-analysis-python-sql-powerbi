@@ -49,18 +49,22 @@ Power BI
 📁 Project Structure
 project/
 │
-├── data/                        
+data/                        
 │   └── raw_data.csv
+
 │
 ├── notebooks/
 │   └── Customer_Shopping_Behavior_Analysis.ipynb
 │
+
 ├── sql/
 │   └── customer_behavior_sql_queries.sql
 │
+
 ├── powerbi/
 │   └── customer_behavior_dashboard.pbix
 │
+
 ├── report/
 │   ├── Project_Report.pdf
 │   └── Presentation_Slides.pdf
