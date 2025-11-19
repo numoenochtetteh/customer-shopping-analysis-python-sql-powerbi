@@ -53,7 +53,6 @@ project/
 data/                        
 │   └── raw_data.csv
 
-│
 
 ├── notebooks/
 │   └── Customer_Shopping_Behavior_Analysis.ipynb
@@ -75,11 +74,11 @@ data/
 │
 
 
-└── README.md
+
 
 🚀 How to Use This Project
 1️⃣ Clone the Repository
-git clone https://github.com/YOUR-USERNAME/customer-shopping-analysis.git
+git clone https://github.com/numoenochtetteh/customer-shopping-analysis-python-sql-powerbi
 cd customer-shopping-analysis
 
 2️⃣ Open the Python Notebook
